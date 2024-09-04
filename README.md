@@ -1,13 +1,13 @@
 ![WELCOME!](https://github.com/JulienJessmon/JulienJessmon/blob/main/Assets/Julien_Banner.png)
 
-# 💫 About Me:
-A Cybersecurity aspirant and detail-oriented Computer Science student with strong  skills in Python programming, basic Linux and hands on experience in python based projects.<br><br>Hoping to improve on my Cybersecurity skills with various projects.
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=40FFAC00&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Julien+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=40FFAC00&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Julien+)
 
 </div>
+
+# 💫 About Me:
+A Cybersecurity aspirant and detail-oriented Computer Science student with strong  skills in Python programming, basic Linux and hands on experience in python based projects.<br><br>Hoping to improve on my Cybersecurity skills with various projects.
 
 ## 🌐 Socials:
 [![HackerRank](https://img.shields.io/badge/hackerrank-1DBF73?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/julienjessmon) 
