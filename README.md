@@ -45,7 +45,7 @@ A Cybersecurity aspirant and detail-oriented Computer Science student with stron
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=julienjessmon&theme=juicyfresh&no-frame=false&row=1&&margin-w=20&no-bg=true)]
+![trophy](https://github-profile-trophy.vercel.app/?username=julienjessmon&theme=juicyfresh&no-frame=false&row=1&&margin-w=20&no-bg=true)
 
 <br>
 
