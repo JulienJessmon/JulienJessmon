@@ -3,7 +3,10 @@ A Cybersecurity aspirant and detail-oriented Computer Science student with stron
 
 
 ## 🌐 Socials:
-[![HackerRank](https://img.shields.io/badge/hackerrank-1DBF73?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/julienjessmon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diablo_the_first) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JulienJessmon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DiabloRedfox) 
+[![HackerRank](https://img.shields.io/badge/hackerrank-1DBF73?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/julienjessmon) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/diablo_the_first) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JulienJessmon) 
+[![X](https://img.shields.io/badge/Twitter-%23040404.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DiabloRedfox) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
