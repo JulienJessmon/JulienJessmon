@@ -43,6 +43,12 @@ A Cybersecurity aspirant and detail-oriented Computer Science student with stron
 
 <br>
 
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=julienjessmon&theme=juicyfresh&no-frame=false&row=1&&margin-w=20&no-bg=true)]
+
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JulienJessmon&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JulienJessmon&theme=radical&hide_border=false)<br/>
