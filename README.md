@@ -8,7 +8,7 @@
 
 <p align="center"> 
   Viewer Count<br>
-  <img src="https://profile-counter.glitch.me/julienjessmon/count.svg" />
+  <img src="https://visitcount.itsvg.in/api?id=JulienJessmon" />
 </p>
 
 
