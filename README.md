@@ -33,6 +33,16 @@ A Cybersecurity aspirant and detail-oriented Computer Science student with stron
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+<br>
+
+## 🧑🏻‍💻 Featured Projects
+1. [Multi Function Glove](https://github.com/JulienJessmon/Multi-Func-Glove) : A Glove with custom functionalities and also acts as a virtual mouse
+2. [Argos](https://github.com/JulienJessmon/Argos): A anti-phishing extention to prevent clicking onto phishing sites
+3. [LearnVault](https://github.com/JulienJessmon/study-material-repo): A study material repository for students
+
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JulienJessmon&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JulienJessmon&theme=radical&hide_border=false)<br/>
